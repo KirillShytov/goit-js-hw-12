@@ -6,7 +6,7 @@ import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 import './css/styles.css';
 import axios from 'axios';
-const API_KEY = '41917530-74216f8e6af2c90f64ec8c0b5';
+const API_KEY = '42038034-2f13ad7c323f856cf793448ff';
 const URL = 'https://pixabay.com/api/';
 const form = document.querySelector('.form-inline');
 const containerEl = document.querySelector('.card-container');
