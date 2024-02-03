@@ -183,3 +183,4 @@ function createPictureMarkup(hits, containerEl) {
     .join();
   containerEl.insertAdjacentHTML('beforeend', markup);
 }
+//
