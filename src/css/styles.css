@@ -31,12 +31,6 @@
   margin-bottom: 32px;
 }
 
-.search-form {
-}
-
-.form-group {
-}
-
 .form-control {
   padding: 8px 16px;
   border-radius: 4px;
@@ -77,9 +71,6 @@
   background: #6c8cff;
 }
 
-.btn-primary {
-}
-
 .card-container {
   display: flex;
   align-items: center;
@@ -118,9 +109,6 @@
 
 .picture-title {
   font-weight: 700;
-}
-
-.picture-sub-title {
 }
 
 /*==========================*/
